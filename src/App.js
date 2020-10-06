@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 
 function App() {
-  return <header></header>;
+  return <div className="box">asd</div>;
 }
 
 export default App;
