@@ -4,6 +4,13 @@
     "opt1": "Electronic device",
     "opt2": "Printing device",
     "opt3": "Electrical device",
-    "opt4": "None of above"    
+    "opt4": "None of above"
+  },
+  "Q2": {
+    "question": "int is a ?",
+    "opt1": "Positive or Negative number",
+    "opt2": "Even Number",
+    "opt3": "Whole Number",
+    "opt4": "Odd Number"
   }
-  
+}
