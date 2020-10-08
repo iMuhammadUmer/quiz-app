@@ -12,5 +12,12 @@
     "opt2": "Even Number",
     "opt3": "Whole Number",
     "opt4": "Odd Number"
+  },
+  "Q3": {
+    "question": "string is a ?",
+    "opt1": "array of characters",
+    "opt2": "int of characters",
+    "opt3": "function",
+    "opt4": "conditional oprerator"
   }
 }
