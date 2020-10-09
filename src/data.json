@@ -19,5 +19,12 @@
     "opt2": "int of characters",
     "opt3": "function",
     "opt4": "conditional oprerator"
+  },
+  "Q4": {
+    "question": "IDE stands for ?",
+    "opt1": "International Design Environment",
+    "opt2": "Inter Designing Employeement",
+    "opt3": "Integrated Development Environment",
+    "opt4": "None of above"
   }
 }
