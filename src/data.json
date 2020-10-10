@@ -26,5 +26,12 @@
     "opt2": "Inter Designing Employeement",
     "opt3": "Integrated Development Environment",
     "opt4": "None of above"
+  },
+  "Q5": {
+    "question": "OOP stands for ?",
+    "opt1": "Organization Of Programming",
+    "opt2": "Object Oriented Programming",
+    "opt3": "Object Of Parsing",
+    "opt4": "None of above"
   }
 }
