@@ -7,31 +7,38 @@
     "opt4": "None of above"
   },
   "Q2": {
-    "question": "int is a ?",
+    "question": "int is a ",
     "opt1": "Positive or Negative number",
     "opt2": "Even Number",
     "opt3": "Whole Number",
     "opt4": "Odd Number"
   },
   "Q3": {
-    "question": "string is a ?",
+    "question": "string is a ",
     "opt1": "array of characters",
     "opt2": "int of characters",
     "opt3": "function",
     "opt4": "conditional oprerator"
   },
   "Q4": {
-    "question": "IDE stands for ?",
+    "question": "IDE stands for ",
     "opt1": "International Design Environment",
     "opt2": "Inter Designing Employeement",
     "opt3": "Integrated Development Environment",
     "opt4": "None of above"
   },
   "Q5": {
-    "question": "OOP stands for ?",
+    "question": "OOP stands for ",
     "opt1": "Organization Of Programming",
     "opt2": "Object Oriented Programming",
     "opt3": "Object Of Parsing",
     "opt4": "None of above"
+  },
+  "Q6": {
+    "question": "loop is used to ",
+    "opt1": "Repeat Instructions",
+    "opt2": "Validation of data",
+    "opt3": "Convert int into string",
+    "opt4": "do nothing"
   }
 }
