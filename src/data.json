@@ -47,5 +47,12 @@
     "opt2": "Validation of data",
     "opt3": "Convert int into string",
     "opt4": "do nothing"
+  },
+  "Q8": {
+    "question": "loop is used to ",
+    "opt1": "Repeat Instructions",
+    "opt2": "Validation of data",
+    "opt3": "Convert int into string",
+    "opt4": "do nothing"
   }
 }
